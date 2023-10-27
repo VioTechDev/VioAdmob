@@ -1,7 +1,5 @@
 <resources>
     <string name="app_name">module_ads</string>
-    <string name="loading_ads">Loading Ads…</string>
-
 
     <string-array name="list_id_test">
         <!--        app open-->
